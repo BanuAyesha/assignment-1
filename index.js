@@ -12,7 +12,7 @@
 <h2>toString()</h2>
 <p>The toString() method returns an array as a comma separated string:</p>
 
-<p id="demo"></p>
+
 
 <script>
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
