@@ -1,1 +1,1 @@
-a project fot html
+a project for css
